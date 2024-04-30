@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    color: gray;
+
+}
+.h-left{
+    width: 100px;
+    margin-left: 20px;
+    /* border: 1px solid black; */
+
+}
+
+.h-right{
+    width: 100px;
+}
+

@@ -1,0 +1,35 @@
+nav {
+  background-color: #030366;
+  height: 100px;
+  color: white;
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+.left {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  /* border: 1px solid white; */
+}
+.right {
+  display: flex;
+  margin-left: 350px;
+  /* border: 1px solid white; */
+  width: 25%;
+  justify-content: space-around;
+}
+.IntelligenceMenu {
+  left: 540px;
+  top: 93px;
+}
+.gearMenu {
+  width: 170px;
+  top: 93px;
+}
+.adminMenu{
+    right: 0px;
+    top: 93px;
+    width: 170px;
+}

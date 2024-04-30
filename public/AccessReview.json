@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ACCOUNTING on permission group",
+    "description": "Accounting Group for Finance Application",
+    "account_name": "Bruce Wayne"
+  },
+  {
+    "name": "IT on Permission Group",
+    "description": "IT Group for Finance Application",
+    "account_name": "Jack Foster"
+  },
+  {
+    "name": "ACCOUNTING on permission group",
+    "description": "Accounting Group for Finance Application",
+    "account_name": "Logan Smith"
+  }
+]
